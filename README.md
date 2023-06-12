@@ -1,4 +1,4 @@
-### Hi there 👋
+![alt text](https://github.com/tttrinter/tttrinter/blob/main/git_graphic.svg)
 
 <!--
 **tttrinter/tttrinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
